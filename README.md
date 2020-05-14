@@ -1,5 +1,5 @@
 ## Structure and definitions 
-
+ 
 The Standard is split into 3 sections, each having their own directory in the repository. 
 
 There are 3 types of JSON-LD files:
